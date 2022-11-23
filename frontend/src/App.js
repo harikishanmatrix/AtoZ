@@ -1,12 +1,13 @@
 
 import './App.css';
+import Hotels from './component';
 
-function App() {
-  return (
-    <div className="App">
-      <h1>hello</h1>
+function Food(){
+  return(
+    <div>
+      <Hotels/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default Food;
