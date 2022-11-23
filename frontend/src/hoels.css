@@ -1,0 +1,11 @@
+.hotel{
+display:flex;
+flex-direction: row;
+gap: 20px;
+border: 5px;
+margin: 5px;
+justify-content: center;
+border-style: solid;
+border-radius: 2px;
+border-color: black;
+}
